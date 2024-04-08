@@ -1,38 +1,54 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Revista Oficial | Psicología Holokinética
+tagline: La revista oficial de Psicología Holokinética. Bimestral.
+email: contacto@psicologiaholokinetica.org
+description: >-
+  La PSICOLOGÍA HOLOKINÉTICA, la psicología científica del 
+  siglo XXI, fue iniciada por Rubén Feldman-González influido por la Física Cuántica
+  y desde el concepto de Holokinesis, formulado matemáticamente por David Bohm
+  en 1986. Esta nueva psicología incorpora la neurología holonómica de Karl Pribram y
+  lleva todo esto, con su pertinente epistemología, al campo de la Psicología Científica.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+# github_username:  jekyll
+logo: /assets/img/aiph-logo.png
+facebook:
+  publisher: https://www.facebook.com/pholokinetica
+social:
+  name: Psicologia Holokinetica
+  links:
+    - https://www.facebook.com/pholokinetica
+    - https://www.psicologiaholokinetica.org
+    - https://www.percepcionunitaria.org
+    - http://www.holokinesislibros.com
+webmaster_verifications:
+  google: 1234
+  bing: 1234
+  alexa: 1234
+  yandex: 1234
+  baidu: 1234
+  facebook: 1234
 
 # Build settings
-theme: minima
+# theme: bulma-clean-theme
+remote_theme: Holokinesis-Libros/bulma-clean-theme
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+  - jekyll-pdf-thumbnail
+
+# General configuration
+lang: es
+# google_analytics: UA-xxxxxxxx
+# comments: false
+theme_color: '#3b4ba8'
+footer_menu: footer_links
+permalink: /revista/:title.html
+collections:
+  volumenes:
+    output: true
+favicon: favicon/favicon.ico
 
 # Exclude from processing.
 # The following items will not be processed, by default.

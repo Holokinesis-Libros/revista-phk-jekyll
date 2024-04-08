@@ -1,0 +1,21 @@
+---
+---
+$primary: #3b4ba8;
+// Import Main CSS file from theme
+@import "main";
+
+.navbar-brand:before {
+    content: '';
+    background-image: url("/assets/img/navbar-logo-plain.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-flex;
+    height: 32px;
+    width: 32px;
+    margin-top: 8px;
+}
+
+.pdf-thumbnail-clip {
+    object-fit: cover;
+    object-position: top;
+}

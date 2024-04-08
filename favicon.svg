@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">Academia Internacional de Psicologia Holokinetica</title>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient1">
+      <stop
+         style="stop-color:#3b4ba8;stop-opacity:0;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#3b4ba8;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+  </defs>
+  <g
+     id="layer1">
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#3b4ba8;stroke-width:61.594;stroke-dasharray:none;stroke-opacity:1"
+       id="path1"
+       cx="512"
+       cy="512"
+       rx="481.203"
+       ry="481.20303" />
+    <g
+       id="logo_aiph"
+       transform="matrix(1.7452081,0,0,1.7452081,-263.36528,-541.66453)"
+       style="stroke-width:0.0817808">
+      <path
+         style="fill:#f7901e;stroke:none;stroke-width:0.0817808"
+         d="m 445.41207,328.60661 c -2.871,12.4088 -8.479,24.4305 -13.694,36 -10.087,22.3746 -22.462,43.3481 -37.201,63 -12.039,16.052 -25.4428,31.158 -36.4098,48 -24.9287,38.283 -39.6698,83.556 -42.7847,129 -1.0758,15.695 -0.5494,31.402 2.0093,47 0.8265,5.039 0.906,11.249 2.8186,15.985 2.8608,7.085 12.7094,13.161 18.2616,18.185 12.6863,11.479 26.63,24.22 37,37.83 3.2885,-4.017 3.669,-9.973 4.5756,-15 1.0934,-6.06 3.0454,-12.852 1.9594,-19 -2.3351,-13.209 -14.9518,-24.922 -21.991,-36 -10.7754,-16.958 -16.1411,-39.208 -12.0942,-59 4.8957,-23.943 22.4376,-43.143 42.5502,-55.946 11.683,-7.437 25.552,-12.158 34.674,-23.055 9.334,-11.149 13.528,-26.061 16.536,-39.999 6.971,-32.307 4.79,-66.1418 4.79,-99 v -32 c 0,-5.0802 0.981,-11.28003 -1,-16 z"
+         id="path8" />
+      <path
+         style="fill:#ec1e24;stroke:none;stroke-width:0.0817808"
+         d="m 466.41207,417.60661 c 0,21.792 -2.498,42.529 -6.08,64 -1.715,10.279 -6.19,23.825 -2.671,33.999 3.143,9.086 12.963,11.464 20.751,15.26 8.849,4.314 17.291,10.322 23.815,17.742 8.474,9.636 9.985,22.358 14.238,33.999 1.711,4.683 5.311,10.909 5.111,15.985 -0.217,5.524 -8.254,6.783 -6.392,13.019 2.449,8.204 12.12,16.472 17.477,22.996 2.207,2.687 6.02,6.23 6.014,10 -0.011,6.709 -9.631,8.37 -10.856,14.209 -1.554,7.409 4.891,12.8 -2.407,18.791 v 2 c 5.989,5.445 -0.46,9.579 -0.708,16 -0.315,8.178 8.788,15.215 1.48,22.787 -6.55,6.786 -18.877,7.784 -27.772,8.174 -5.341,0.234 -10.197,-0.35 -14.996,2.522 -15.791,9.45 -21.726,35.566 -23.09,52.517 -0.379,4.716 -2.325,11.121 -0.311,15.674 2.605,5.888 13.94,10.29 19.397,13.067 2.06,1.048 4.581,2.634 7,2.265 3.231,-0.492 5.712,-3.783 8,-5.837 5.49,-4.928 10.784,-9.945 16,-15.169 24.697,-24.736 46.177,-53.962 55.706,-88 14.579,-52.075 0.113,-110.544 -25.015,-157 -13.784,-25.485 -31.15,-48.593 -46.638,-73 -6.937,-10.931 -13.945,-22.135 -19.191,-34 -3.051,-6.899 -4.536,-15.9359 -8.862,-22 z"
+         id="path160" />
+      <path
+         style="fill:#43c1cb;stroke:none;stroke-width:0.0817808"
+         d="m 282.41207,640.60661 c -1.38438,7.4 6.26983,15.674 9.6914,22 9.7229,17.976 17.9357,36.736 27.0617,55 11.7842,23.584 22.8187,47.548 38.3989,69 8.7294,12.019 18.3457,23.901 29.848,33.385 9.276,7.648 19.1,14.671 30,19.834 35.407,16.77 75.228,16.294 113,9.17 12.561,-2.369 24.592,-6.518 37,-9.389 v -3 c -23.015,-4.275 -45.056,-7.671 -67,-16.449 -38.771,-15.509 -70.219,-43.103 -100,-71.59 -27.4498,-26.258 -52.0813,-55.436 -81,-80.232 -11.3329,-9.717 -23.4097,-21.3 -37,-27.729 z"
+         id="path1234" />
+    </g>
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Academia Internacional de Psicologia Holokinetica</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
