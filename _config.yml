@@ -1,5 +1,5 @@
-title: Revista Oficial | Psicología Holokinética
-tagline: La revista oficial de Psicología Holokinética. Bimestral.
+title: Revista Oficial de Psicología Holokinética
+tagline: Sitio oficial de la revista bimestral de Psicología Holokinética
 email: contacto@psicologiaholokinetica.org
 description: >-
   La PSICOLOGÍA HOLOKINÉTICA, la psicología científica del 
@@ -9,13 +9,14 @@ description: >-
   lleva todo esto, con su pertinente epistemología, al campo de la Psicología Científica.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-# github_username:  jekyll
 logo: /assets/img/aiph-logo.png
+twitter:
+  card: summary
+
 facebook:
   publisher: https://www.facebook.com/pholokinetica
 social:
-  name: Psicologia Holokinetica
+  name: Revista Oficial de Psicología Holokinética
   links:
     - https://www.facebook.com/pholokinetica
     - https://www.psicologiaholokinetica.org
@@ -50,6 +51,11 @@ collections:
     output: true
 favicon: favicon/favicon.ico
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/aiph-logo.png
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
