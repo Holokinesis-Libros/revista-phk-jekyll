@@ -1,0 +1,3 @@
+{
+    "buildCommand": "dnf install -y poppler-utils"
+}

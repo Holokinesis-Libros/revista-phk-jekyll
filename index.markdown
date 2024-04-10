@@ -28,6 +28,7 @@ hero_link_text: Número 59
                 <img class="pdf-thumbnail-clip"
                     src="{{revista.pdf_file | pdf_thumbnail}}"
                     alt="Placeholder image"
+                    loading="lazy"
                 />
                 </figure>
             </div>
