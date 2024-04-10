@@ -1,3 +1,3 @@
 {
-    "buildCommand": "dnf install -y poppler-utils"
+    "buildCommand": "./vercel_install.sh"
 }
