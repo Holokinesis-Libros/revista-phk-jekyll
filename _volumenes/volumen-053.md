@@ -19,15 +19,12 @@ Ha salido el volúmen No. 53 de la revista oficial de Psicología Holokinética.
 En esta entrega los temas son:
 
 
+- [Portada](/pdf/REVISTAPH-53.pdf#page=1)
+- [ÍNDICE](/pdf/REVISTAPH-53.pdf#page=3)
 - [Editorial](/pdf/REVISTAPH-53.pdf#page=4)
-- [Resumen sobre Rubén Feldman-González](/pdf/REVISTAPH-53.pdf#page=5)
-- [Segunda entrevista en Alaska](/pdf/REVISTAPH-53.pdf#page=7)
-- [Proceso M.E.T.A., pensamiento y cultura](/pdf/REVISTAPH-53.pdf#page=20)
-- [La bellota humana](/pdf/REVISTAPH-53.pdf#page=29)
-- [Percepción Unitaria, alimentación y dietas](/pdf/REVISTAPH-53.pdf#page=31)
-- [Sexo y espíritu](/pdf/REVISTAPH-53.pdf#page=32)
-- [Palabras del día de mi año 80](/pdf/REVISTAPH-53.pdf#page=34)
-- [El orden implicado](/pdf/REVISTAPH-53.pdf#page=35)
-- [Cómo vivir tranquilo](/pdf/REVISTAPH-53.pdf#page=37)
-- [Esperando al Sagrado](/pdf/REVISTAPH-53.pdf#page=39)
-- [Luz y Tinieblas](/pdf/REVISTAPH-53.pdf#page=43)
+- [Resumen sobre Rubén Feldman González](/pdf/REVISTAPH-53.pdf#page=5)
+- [Diálogo sobre "Iglesia e Iglesias"](/pdf/REVISTAPH-53.pdf#page=7)
+- [El gusano que no quiere ser mariposa (Primer diálogo) 15 El valor de la paz y de la muerte en la vida](/pdf/REVISTAPH-53.pdf#page=35)
+- [El Idioma Internacional Esperanto](/pdf/REVISTAPH-53.pdf#page=44)
+- [La cruz](/pdf/REVISTAPH-53.pdf#page=45)
+- [No me escuchas](/pdf/REVISTAPH-53.pdf#page=46)
