@@ -66,12 +66,22 @@ defaults:
 #
 exclude:
   - scripts/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - vercel_install.sh
+  - vercel.json
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+feed:
+  tags: true
+  categories:
+    - revista
+    - paginas
+  collections:
+    - volumenes
