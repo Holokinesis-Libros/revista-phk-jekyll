@@ -26,7 +26,7 @@ hero_link_text: Número 59
             <div class="card-image">
                 <figure class="image is-4by3">
                 <img class="pdf-thumbnail-clip"
-                    src="{{revista.pdf_file | pdf_thumbnail}}"
+                    src="{{revista.pdf_file | pdf_thumbnail: resize:'25%' }}"
                     alt="Placeholder image"
                     loading="lazy"
                 />

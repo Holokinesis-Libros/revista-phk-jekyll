@@ -19,7 +19,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "bulma-clean-theme"
   gem "jekyll-remote-theme"
-  gem "jekyll-pdf-thumbnail", "~> 0.1"
+  gem "jekyll-pdf-thumbnail", "~> 0.3"
   # gem "jekyll-pdf-thumbnail", git: 'https://github.com/misaelnieto/jekyll-pdf-thumbnail'
   # gem "jekyll-pdf-thumbnail", path: '../../jekyll-pdf-thumbnail/'
 end
