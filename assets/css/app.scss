@@ -1,6 +1,7 @@
 ---
 ---
 $primary: #3b4ba8;
+
 // Import Main CSS file from theme
 @import "main";
 
@@ -19,3 +20,20 @@ $primary: #3b4ba8;
     object-fit: cover;
     object-position: top;
 }
+
+section.frontpage-hero-1 {
+    background: linear-gradient(135deg, #00688b 0%, #2082a2 30% , #0e7597 60%, #00688b 100%) !important;
+}
+section.frontpage-hero-3 {
+    background: radial-gradient(circle, #972828 0%, #8b1919 45% , #a23838 100%) !important;
+}
+section.frontpage-hero-4 {
+    background: radial-gradient(circle, #008b8ba2 0%, #097272 75% , #0e9797 100%) !important;
+}
+section.frontpage-hero-5 {
+    background: linear-gradient(141deg, #3131a6 0%, #1e1e99 35% , #4747b3 100%) !important;
+}
+section.frontpage-hero-6 {
+    background: linear-gradient(141deg, #54198b 0%, #4324C7 35% , #7724C7 100%) !important;
+}
+

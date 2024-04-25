@@ -2,13 +2,12 @@
 layout: post
 title:  "Volumen 33"
 subtitle: Entrega No. 33 de la revista oficial de Psicología Holokinética
-date: 2024-04-01
+date: 2019-12-01
 categories: revista
 # Para SEO
 # subtitle: The page subtitle
 # description: This is the meta description for this page and will help it appear in search engines
-# image: /img/page-image.jpg
-hero_height: is-fullwidth
+hero_height: is-fullwidth frontpage-hero-4
 hero_link: /pdf/REVISTAPH-33.pdf
 hero_link_text: Descarga la revista completa
 issue_number: 33

@@ -9,7 +9,7 @@ subtitle: Revista Oficial
 # subtitle: The page subtitle
 # description: This is the meta description for this page and will help it appear in search engines
 # image: /img/page-image.jpg
-# hero_height: is-fullwidth
+hero_height: is-fullwidth frontpage-hero-6
 hero_link: /volumenes/volumen-059
 hero_link_text: Número 59
 ---
