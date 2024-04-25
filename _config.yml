@@ -8,7 +8,7 @@ description: >-
   en 1986. Esta nueva psicología incorpora la neurología holonómica de Karl Pribram y
   lleva todo esto, con su pertinente epistemología, al campo de la Psicología Científica.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://revista-phk-jekyll.vercel.app" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/img/aiph-logo.png
 twitter:
   card: summary
@@ -23,7 +23,7 @@ social:
     - https://www.percepcionunitaria.org
     - http://www.holokinesislibros.com
 webmaster_verifications:
-  google: 1234
+  google: fcK8Y0hihl8up91mHFDMteEhVinoqABFMB-cGGknTlU
   bing: 1234
   alexa: 1234
   yandex: 1234
@@ -38,7 +38,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
   - jekyll-pdf-thumbnail
-
+  - jekyll-sitemap
 # General configuration
 lang: es
 # google_analytics: UA-xxxxxxxx

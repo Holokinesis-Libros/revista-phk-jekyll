@@ -7,6 +7,7 @@ title: Información legal
 # image: /img/page-image.jpg
 hero_height: is-fullwidth
 category: paginas
+sitemap: true
 ---
 
 
