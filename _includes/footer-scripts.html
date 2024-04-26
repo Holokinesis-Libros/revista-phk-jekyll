@@ -1,0 +1,33 @@
+<!-- Place this script at the end of the body tag -->
+<script>
+    var form = document.querySelector("form.ajax-form");
+    var status = form.querySelector('.notification .message');
+    
+    async function handleSubmit(event) {
+      event.preventDefault();
+      var data = new FormData(event.target);
+      fetch(event.target.action, {
+        method: form.method,
+        body: data,
+        headers: {
+            'Accept': 'application/json'
+        }
+      }).then(response => {
+        if (response.ok) {
+          status.innerHTML = "Su mensaje se ha enviado. Contestaremos a la brevedad!";
+          form.reset()
+        } else {
+          response.json().then(data => {
+            if (Object.hasOwn(data, 'errors')) {
+              status.innerHTML = data["errors"].map(error => error["message"]).join(", ")
+            } else {
+              status.innerHTML = "Lo sentimos! Ha ocurrido algun error al enviar el formulario."
+            }
+          })
+        }
+      }).catch(error => {
+        status.innerHTML = "Lo sentimos! Ha ocurrido algun error al enviar el formulario."
+      });
+    }
+    form.addEventListener("submit", handleSubmit)
+</script>
