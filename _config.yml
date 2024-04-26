@@ -9,9 +9,24 @@ description: >-
   lleva todo esto, con su pertinente epistemología, al campo de la Psicología Científica.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://revista-phk-jekyll.vercel.app" # the base hostname & protocol for your site, e.g. http://example.com
+author:
+  type: Organization
+  name: Academia Internacional de Psicología Holokinética, A.C.
+  links:
+    - https://www.psicologiaholokinetica.org/
+    - https://percepcionunitaria.org/
+    - https://www.holokinesislibros.com
+  address:
+    type: PostalAddress
+    streetAddress: Avenida Alba Número 3679, Colonia Nuevo Amanecer
+    addressRegion: Mexicali
+    addressLocality: Baja California
+    addressCountry: MX,
+    postalCode: 21378
+  url: https://www.psicologiaholokinetica.org/
+locale: es_MX
+lang: es_MX
 logo: /assets/img/aiph-logo.png
-twitter:
-  card: summary
 
 facebook:
   publisher: https://www.facebook.com/pholokinetica
@@ -39,8 +54,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-pdf-thumbnail
   - jekyll-sitemap
-# General configuration
-lang: es
+
 # google_analytics: UA-xxxxxxxx
 # comments: false
 theme_color: '#3b4ba8'

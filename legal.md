@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Información legal
-# Para SEO
-# subtitle: The page subtitle
-# description: This is the meta description for this page and will help it appear in search engines
+subtitle: Leyenda legal requerida por la ley de derechos de autor
+description: Información legal y de derechos de autor de la revista PSICOLOGÍA HOLOKINÉTICA de la Academia Internacional de Psicología Holokinética.
 # image: /img/page-image.jpg
 hero_height: is-fullwidth
 category: paginas
