@@ -1,20 +1,26 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 title: Psicología Holokinética
 subtitle: Revista Oficial
-# Para SEO
-# subtitle: The page subtitle
-# description: This is the meta description for this page and will help it appear in search engines
-# image: /img/page-image.jpg
 hero_height: is-fullwidth frontpage-hero-6
 hero_link: /volumenes/volumen-059
 hero_link_text: Número 59
+keywords:
+    - david bohm
+    - holokinesis
+    - iluminacion
+    - paz
+    - percepcion unitaria
+    - psicologia
+    - psicologia holokinetica
+    - RFG
+    - ruben feldman
+    - ruben feldman-gonzalez
+    - ciencia
+description: La Psicología Holokinética, iniciada por Ruben Feldman-González, es la unica Psicología Científica
 ---
 
-# Volúmenes anteriores
+## Volúmenes anteriores
 
 
 <div class="grid">
